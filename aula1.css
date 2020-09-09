@@ -1,0 +1,18 @@
+
+
+body{ /*este aqui é um comentari em css*/
+ 
+background-color: lightseagreen;
+}
+
+h1{ color:greenyellow;
+
+}
+ h1{font-family: Georgia, 'Times New Roman', Times, serif;}
+
+ h1{text-align: center;}
+
+ #ah12 {
+
+    text-align:center;
+ } 
